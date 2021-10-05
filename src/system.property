@@ -1,0 +1,21 @@
+#key=value
+url= https://www.easemytrip.com/
+signupMail= ssepxuogqcmvbhszis@sdvft.com
+signupMail2=jqxuhkmxlnonosmuhv@sdvft.com
+signupMail3=hfabalconotgkxoock@sdvft.com
+password=Spongebob@99
+Mail= srishtiranjan30@gmail.com
+Wrongmail= srishranjangmail
+wrongP=srish99
+password3=xyz@99
+MyAccount=spnMyAcc
+LoginOrSignUp=//a[normalize-space()='Login or Signup']
+EnterEmail=txtEmail
+Continue=shwotp
+LogInSignUp=a#shwlogn
+ResetPassword=//a[normalize-space()='Reset Password']
+EnterPassword=txtEmail2
+EnterOTP=txtEmail1
+CreateMyAccount=OtpLgnBtn
+ContinueAgain=//input[@ng-click='CheckUserFP();']
+LogIn=//input[@ng-click=\"Authenticate('P')\"]
